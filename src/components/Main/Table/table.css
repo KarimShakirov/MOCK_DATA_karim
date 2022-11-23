@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th {
+    width: 10%;
+}
+
+input {
+    width: 90%;
+}
